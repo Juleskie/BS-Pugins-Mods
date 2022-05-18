@@ -1,0 +1,62 @@
+[{
+"ALL TYPES FOR EMIT, TENDRIL, CHUNK":
+["[Tendril] = ice, smoke, thin_smoke",
+ "[Chunk] = rock, slime, sweat, flag_stand, metal, ice, splinter, spark",
+ "[Emit] = chunks, stickers, tendrils, distortion, flag_stand, fairy_dust"
+],
+
+"DAMAGE REQUIRED": [
+               "800",
+               "500",
+               "150"],
+
+"TEXT": [
+               "PRO!",
+               "NICE!",
+               "NOOB"],
+
+"TEXT SCALE": [
+               "1.5",
+               "1.5",
+               "1.5"],
+
+"TEXT RGBA (RED, GREEN, BLUE, ALPHA)": [
+               "(0.63, 0.63, 1.0, 1.0)",
+               "(0.2, 1.0, 0.8, 1.0)",
+               "(0.2, 1.0, 1.0, 1.0)"],
+
+"SHOW PARTICLE": [
+               "True",
+               "True",
+               "True"],
+
+"PARTICLE TYPE (EMIT)": [
+               "chunks",
+               "chunks",
+               "chunks"],
+
+"PARTICLE TYPE (CHUNK)": [
+               "ice",
+               "slime",
+               "rock"],
+
+"PARTICLE TYPE (TENDRIL)": [
+               "smoke",
+               "smoke",
+               "smoke"],
+
+"PARTICLE SPREAD": [
+               "0.5",
+               "0.5",
+               "0.5"],
+
+"PARTICLE SIZE": [
+               "0.8",
+               "0.8",
+               "0.8"],
+
+"PARTICLE COUNT": [
+               "38",
+               "25",
+               "27"]
+}]
